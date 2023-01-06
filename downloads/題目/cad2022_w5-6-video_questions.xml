@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="14.8.5
+">
+	<header lang="en" date="2022-11-21 14:02:56">
+	</header>
+	<body>
+		<module>
+			<name>cad2022</name>
+			<enabled>true</enabled>
+			<subject>
+				<name>w5-w6影片</name>
+				<description>電腦輔助設計實習第五與六週的課程相關考試題目.</description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 [url=https://nfuedu.sharepoint.com/sites/cad2022/_layouts/15/stream.aspx?id=%2Fsites%2Fcad2022%2FShared%20Documents%2Fw5%2FRecordings%2F1%E3%80%8Cw5%E3%80%8D%E5%9C%A8%20stud%2Ecycu%2Eorg%20%E5%95%9F%E7%94%A8%E5%80%8B%E4%BA%BA%E7%9A%84%E5%8B%95%E6%85%8B%E7%B6%B2%E7%AB%99%2Emp4&amp;referrer=Teams%2ETEAMS%2DWEB&amp;referrerScenario=teamsSdk%2DopenFilePreview]1「w5」在 stud.cycu.org 啟用個人的動態網站[/url] 教學影片內容, 選出下列正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>希望登入 stud.cycu.org 主機, 除了在 Windows 10 命令列視窗中, 以 ssh 指令之外, 也可以透過 Putty.exe 中的 SSH session 設定完成.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從 [url=https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping]ping[/url] 可以查詢到 Windows 環境中 ping 的用法, 同時也可再透過 [url=https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol]ICMP[/url], 了解相關的網路協定內容. 所以在命令列輸入 ping /t stud.cycu.org 就是對 stud 主機送出封包, 要求其不中斷地對此封包進行回應.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Windows 操作系統中 ping -t stud.cycu.org 與 ping /t stud.cycu.org 其實是相同的指令.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Windows 操作系統中使用 sftp 可以在 SSH 網路協定下從 stud.cycu.org 中取下或送上 Windows 目錄中的檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 主機後, 若要列出所在目錄的檔案內容, 可以使用 ls -l 指令.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>所謂登入 stud.cycu.org 主機, 其實就是透過 SSH 協定, 驗證使用者帳號密碼後, 可以讓使用者在 secure 環境中執行 shell 指令.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 主機後, 若要列出所在目錄的隱藏檔案內容, 可以使用 ls -l 指令.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>stud.cycu.org 是一台由 Microsoft Teams 系統 所提供的雲端主機.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>stud.cycu.org 所執行的操作系統為 Windows 10.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>stud.cycu.org 是一台由 github.com 所提供的雲端主機.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 [url=https://nfuedu.sharepoint.com/sites/cad2022/_layouts/15/stream.aspx?id=%2Fsites%2Fcad2022%2FShared%20Documents%2Fw5%2FRecordings%2F1%E3%80%8Cw5%E3%80%8D%E5%9C%A8%20stud%2Ecycu%2Eorg%20%E5%95%9F%E7%94%A8%E5%80%8B%E4%BA%BA%E7%9A%84%E5%8B%95%E6%85%8B%E7%B6%B2%E7%AB%99%2Emp4&amp;referrer=Teams%2ETEAMS%2DWEB&amp;referrerScenario=teamsSdk%2DopenFilePreview]1「w5」在 stud.cycu.org 啟用個人的動態網站[/url] 教學影片內容, 選出下列正確的敘述..</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 帳號後, cd 到倉儲目錄, 之所以要對 acp 檔案執行 chmod u+x acp 的用意是讓 acp 可以允許 user 執行.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 帳號後, 設法建立 SSH keys 的內定儲存位置為使用者 home 目錄下的 .ssh 目錄中.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 帳號後, 設法建立 SSH keys 的內定 private key 名稱為 id_rsa.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 帳號後, 設法建立 SSH keys 的內定 public key 名稱為 id_rsa.pub.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 帳號後, 設法建立 SSH keys 後, 要將 public key 送到 Github.com 登錄的目的是為了要使用 SSH 協定修改倉儲內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 帳號後, 設法建立 SSH keys 後, 使用 SSH 協定的內建代理主機設定檔案為 .ssh/config.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>以 demo 帳號登入 stud.cycu.org 後, 若 .ssh/config 檔案內容如下:
+[code]
+Host demo 
+User git
+Hostname github.com
+ProxyCommand /usr/bin/ncat --proxy p42.cycu.org:3128 --proxy-type http %h %p
+[/code]
+表示採 SSH 執行 git clone 時的指令應該是: git clone --recurse-submodules git@demo:demo/mdecad2022/site-demo.git</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 帳號後, 建立 OpenSSH key pair 的指令為 ssh-keygen</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在純 IPv6 下登入 stud.cycu.org 後, 若希望採 SSH 協定完整取下位於 github.com 的個人倉儲內容, 除了設定 SSH 協定代理主機外, 還要設定 https 的代理主機.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>以 demo 帳號登入 stud.cycu.org 後, 若 .ssh/config 檔案內容如下:
+[code]
+Host demo 
+User git
+Hostname github.com
+ProxyCommand /usr/bin/ncat --proxy p42.cycu.org:3128 --proxy-type http %h %p
+[/code]
+表示採 SSH 執行 git clone 時的指令應該是: git clone --recurse-submodules git@github.com:demo/mdecad2022/site-demo.git</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 [url=https://nfuedu.sharepoint.com/sites/cad2022/_layouts/15/stream.aspx?id=%2Fsites%2Fcad2022%2FShared%20Documents%2Fw6%2FRecordings%2F2%E3%80%8Cw6%E3%80%8D%E9%87%8D%E6%96%B0%E6%93%8D%E4%BD%9C%E7%AC%AC%E4%B8%80%E9%83%A8%E5%BD%B1%E7%89%87%E6%B2%92%E6%9C%89%E7%95%AB%E9%9D%A2%E7%9A%84%E6%B5%81%E7%A8%8B%2C%20%E5%9C%A8%20stud%2Ecycu%2Eorg%20%20%E5%9F%B7%E8%A1%8C%E5%8B%95%E6%85%8B%E7%B6%B2%E7%AB%99%2Emp4&amp;referrer=Teams%2ETEAMS%2DWEB&amp;referrerScenario=teamsSdk%2DopenFilePreview]2「w6」重新操作第一部影片沒有畫面的流程, 在 stud.cycu.org  執行動態網站[/url] 教學影片內容, 選出下列正確的敘述..</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/EUl_J-hPqnRFgmdBM1aP2Q4B00QdHwFCBFrWXhqJ00Lj0g?e=NHDiO2&amp;isSPOFile=1]這個檔案[/url] 中的 server.py, 必須要放入使用者的倉儲目錄中, 才能讓後續的 python3 server.py 執行動態網站.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/EUl_J-hPqnRFgmdBM1aP2Q4B00QdHwFCBFrWXhqJ00Lj0g?e=NHDiO2&amp;isSPOFile=1]這個檔案[/url] 中的 config 必須放入 stud.cycu.org 使用者 home 目錄下的 .ssh 才能發揮作用.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/EUl_J-hPqnRFgmdBM1aP2Q4B00QdHwFCBFrWXhqJ00Lj0g?e=NHDiO2&amp;isSPOFile=1]這個檔案[/url] 中的 acp, 其功能是讓使用者可以同時執行 git add, git commit 與 git push 指令.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>影片中用來啟動 CoppeliaSim 全球資訊網伺服器的 port 號碼為 23020</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 後, 進入個人倉儲目錄後, 之所以執行 python3 server.py&amp;, 其實就是要 server.py 能夠在背景環境中執行, 即使使用者以 exit 登出 stud 主機後, 該程式仍會持續執行.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>使用 filezilla 的用意是採圖形介面的套件, 以 sftp 協定連接到 stud.cycu.org 後, 可以根據登入者的帳號權限, 從伺服器下載或上傳檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>每一位學員收到與 stud.cycu.org 相關的兩個埠號, 其 8xxx 是用來連結 https://stud.cycu.org:8xxxx</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>下載[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/EUl_J-hPqnRFgmdBM1aP2Q4B00QdHwFCBFrWXhqJ00Lj0g?e=NHDiO2&amp;isSPOFile=1]這個檔案[/url] 解開後, 可以看到有三個檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 stud.cycu.org 後, 進入個人倉儲目錄後, 之所以執行 python3 server.py, 其實就是要讓 Python 解譯器執行 server.py 三次.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>每一位學員收到與 stud.cycu.org 相關的兩個埠號, 其 9xxx 是用來連結 https://stud.cycu.org:9xxxx</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/EUl_J-hPqnRFgmdBM1aP2Q4B00QdHwFCBFrWXhqJ00Lj0g?e=NHDiO2&amp;isSPOFile=1]這個檔案[/url] 中的 acp 必須放入 stud.cycu.org 使用者 home 目錄下的 .ssh 才能發揮作用.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			</subject>
+		</module>
+	</body>
+</tcexamquestions>

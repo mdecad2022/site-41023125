@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="14.8.5
+">
+	<header lang="en" date="2022-11-21 14:02:29">
+	</header>
+	<body>
+		<module>
+			<name>cad2022</name>
+			<enabled>true</enabled>
+			<subject>
+				<name>w4影片</name>
+				<description>電腦輔助設計實習第四週的課程相關考試題目.</description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 [url=https://nfuedu.sharepoint.com/sites/cad2022/_layouts/15/stream.aspx?id=%2Fsites%2Fcad2022%2FShared%20Documents%2Fw4%2FRecordings%2F1%E3%80%8Cw4%E3%80%8D%E7%AC%AC%E5%9B%9B%E9%80%B1%E4%B8%8B%E8%BC%89%E8%BF%91%E7%AB%AF%E5%B7%A5%E5%85%B7%2C%20%E6%BA%96%E5%82%99%20exam%2Ecycu%2Eorg%20%E8%80%83%E8%A9%A6%E5%B8%B3%E8%99%9F%2Emp4&amp;referrer=Teams%2ETEAMS%2DWEB&amp;referrerScenario=teamsSdk%2DopenFilePreview]1「w4」第四週下載近端工具, 準備 exam.cycu.org 考試帳號[/url] 影片內容, 選出下列正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程所使用的 Onshape, 可以讓使用者直接在瀏覽器中進行零組件的繪圖.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程所使用的可攜程式系統, 其 Python 為 3.10.6 版.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程所使用的 NX 版次為 NX2027.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>使用校外電腦, 若希望連接機械設計工程系所提供的 IPv6 網路協定電腦, 可以使用 140.130.17.4:3128 作為代理主機.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>使用校外電腦, 若希望連接機械設計工程系所提供的 IPv6 網路協定電腦, 可以使用 140.130.17.4:3128 作為代理主機. 連線時的帳號為 kmolab, 密碼也是 kmolab</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>使用 Github Pages 的目的是用來展示個人倉儲的靜態網頁內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程所使用的 CoppeliaSim 版次為 4.2.0 rev12.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>使用 Replit 與 Github 倉儲同步的目的是用來展示個人倉儲的靜態網頁內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程所使用的繪圖工具, 包括 Solidworks 與 NX.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程所使用的 NX, 可以讓使用者直接在瀏覽器中進行零組件的繪圖.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 [url=https://nfuedu.sharepoint.com/sites/cad2022/_layouts/15/stream.aspx?id=%2Fsites%2Fcad2022%2FShared%20Documents%2Fw4%2FRecordings%2F2%E3%80%8Cw4%E3%80%8DReplit%20import%20%E5%80%89%E5%84%B2%E4%B8%A6%E8%88%87%20Github%20%E5%90%8C%E6%AD%A5%2Emp4&amp;referrer=Teams%2ETEAMS%2DWEB&amp;referrerScenario=teamsSdk%2DopenFilePreview]2「w4」Replit import 倉儲並與 Github 同步[/url] 影片內容, 選出下列正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Replit 中的專案, 主要的 Config file 名稱為 .replit</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Replit 中的專案, 若 .replit 設定檔案中的 entrypoint = "main.py", 則選擇 Run 時, 系統將會執行 main.py</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>將個人倉儲中的 init.py 以編輯器開啟, 可以發現:
+[code]
+site_title = "wcms on replit"
+ip = "127.0.0.1"
+dynamic_port = 9445
+static_port = 8445
+[/code]
+等資料, 表示若在近端執行靜態網站, 其網站標題, 網站 ip, 動態網站的 port 都可以依照需求設定.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 Replit 系統後, 可以利用 Import 功能將個人在 Github.com 的倉儲導入.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>為了讓個人倉儲的動態網站能在 Replit 啟動, 必須進入倉儲目錄執行 git submodule update --init --recursive 的目的是取下 cmsimde 子模組的內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Replit 系統中, 可以利用 main.py 開啟個人倉儲中的動態網站.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Replit 系統中免費帳號只能建立 5 個 Repls.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>使用 Replit 免費帳號, 可以 Import 在 Github.com 中的 public 倉儲或 private 倉儲.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>配置給每位學員的個人倉儲系統, 為了開啟動態網站, 需要使用 C 解譯系統.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>為了讓個人倉儲的動態網站能在 Replit 啟動, 必須執行 pip install flask flask_cors bs4 lxml pelican markdown gevent 的原因是要完整取下子模組的內容.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 [url=https://nfuedu.sharepoint.com/sites/cad2022/_layouts/15/stream.aspx?id=%2Fsites%2Fcad2022%2FShared%20Documents%2Fw4%2FRecordings%2F3%E3%80%8Cw4%E3%80%8D%E8%BF%91%E7%AB%AF%E5%8F%AF%E6%94%9C%E7%92%B0%E5%A2%83%E6%BA%96%E5%82%99%2Emp4&amp;referrer=Teams%2ETEAMS%2DWEB&amp;referrerScenario=teamsSdk%2DopenFilePreview]3「w4」近端可攜環境準備[/url] 影片內容, 選出下列正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>若採可攜程式啟動系統, git 指令使用 https 協定時所參照的設定檔案位於啟動時所指定的 home_ipv6 目錄下的 .gitconfig</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>當使用者將 github 倉儲 git clone 到近端電腦後, 可以從倉儲 .git 目錄中的 config 檔案設定中, 查詢到 clone 所使用的網路協定.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>當使用者將 github 倉儲 git clone 到近端電腦後, 執行動態網站所使用的 port 號, 可以從 init.py 檔案中修改.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>當使用者在純 IPv6 幻境中, 希望採 SSH 協定從 Github 將個人倉儲 git clone 至近端電腦時, 還需要針對取下 cmsimde 子模組目錄而設定 https 協定所需的代理主機.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>若採可攜程式啟動系統, 位於 home_ipv6 目錄下的 .gitconfig 所設定的 user.name 與 user.email, 將會在 git commit 時對提交內容進行作者綁定.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>SSH 指的是 Secure SHell 的意思.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>當使用者將 github 倉儲 git clone 到近端電腦後, 執行靜態網站所使用的 port 號, 可以從 cms.bat 檔案中修改.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>若採可攜程式啟動系統, 位於 home_ipv6 目錄下的 .gitconfig 所設定的 proxy 主機, 是在執行 SSH 協定時所用.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>cms.bat 是一個批次檔案, 其內容為 git add, git commit 與 git push 等三個指令的結合.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>當使用者希望採 SSH 協定從 Github 將個人倉儲 git clone 至近端電腦時, 必須將 private key 送到 Github 才可順利完成.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 [url=https://nfuedu.sharepoint.com/sites/cad2022/_layouts/15/stream.aspx?id=%2Fsites%2Fcad2022%2FShared%20Documents%2Fw4%2FRecordings%2F4%E3%80%8Cw4%E3%80%8D%E6%8E%A1%E7%94%A8%E6%9C%80%E6%96%B0%20cmsimde%20%E7%89%88%E6%9C%AC%E8%BF%91%E7%AB%AF%E8%88%87%20replit%20%E7%AB%AF%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81%E6%94%B9%E7%89%88%2Emp4&amp;referrer=Teams%2ETEAMS%2DWEB&amp;referrerScenario=teamsSdk%2DopenFilePreview]4「w4」採用最新 cmsimde 版本近端與 replit 端動態網頁改版[/url] 影片內容, 選出下列正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在命令列中執行 git clone --recurse-submodules 時, 若採 SSH 網路協定, 則必須先設定 github.com 上個人帳號下的 SSH and GPG keys 項目, 把 public key 輸入.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在命令列中執行 git clone --recurse-submodules 的目的, 是希望將 github 中的個人倉儲與子模組內容取到近端電腦中.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在命令列中執行 git clone --recurse-submodules 時, 若採 SSH 網路協定, 除了將 public key 登錄到 Github.com 外, 只要再進行 SSH session 與 .gitconfig 中的 http.proxy 設定, 就可以完整取下倉儲內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在近端電腦中的個人倉儲中, 進入 cmsimde 目錄後執行 git pull origin master 的意思是從名稱為 origin 的網站連結, 取下 master 分支的最新資料.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>已知在近端電腦中的個人倉儲與 github.com 上的對應倉儲內容比較, 是較舊的版本, 使用者可以進入倉儲目錄後, 以 git pull 取下 github.com 倉儲中的最新內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>根據實際測試, 已經可以在純 IPv6 網路協定中擷取 [url=https://mde.tw]https://mde.tw[/url] 網站內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>個人倉儲中的 cmsimde 一旦 git clone 之後, 其版次就已經固定, 無法更改.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Github Pages 中啟動的網站之所以稱為動態網站, 是因為必須配合 Github.com 的版次而動態配置.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Replit 平台上無法看到其隱藏檔案, 必須 git clone 到近端後才可以了解其隱藏檔案的內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>課程中之所以介紹 Replit, 主要是希望在其平台執行個人倉儲的靜態網站.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			</subject>
+		</module>
+	</body>
+</tcexamquestions>

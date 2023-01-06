@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="14.8.5
+">
+	<header lang="en" date="2022-11-21 14:01:39">
+	</header>
+	<body>
+		<module>
+			<name>cad2022</name>
+			<enabled>true</enabled>
+			<subject>
+				<name>solvespace</name>
+				<description>電腦輔助設計實習solvespace相關考試題目.</description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 Solvespace 有關內容, 選出下列正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Solvespace 是一套參數式零組件設計與繪圖套件.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在網路上可以找到 Solvespace 套件的原始碼.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Solvespace 主要採 C++ 程式語言編寫.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>課程中下載的 Solvespace 版本為 3.1 版.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>執行 Solvespace 後, 可以從 View 下拉式功能表中看到所採用的繪圖尺寸單位.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/Edkqkys87UxOvkBIuf82scUBZCCBDnZ_mYou3fBkSLQ3bw?e=KAfRfX]這個零件[/url] 總計有三個尺寸設定.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>根據 [url=https://nfuedu.sharepoint.com/:u:/s/cad2022/Edkqkys87UxOvkBIuf82scUBZCCBDnZ_mYou3fBkSLQ3bw?e=KAfRfX]這個零件[/url] 的尺寸定義, 其體積應該是小於 77000 mm 三次方.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>下載 Solvespace 的 Windows 版本套件, 其容量只有大約 60 MB.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/Ea66e1lNhitMup62TIxhsZgBfqNmwdR-mzbw4k5hmE6Z3w?e=EwGUip]這個零件[/url] 是一個圓柱體.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Solvespace 主要採 Python 程式語言編寫.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://nfuedu.sharepoint.com/:u:/s/cad2022/Edkqkys87UxOvkBIuf82scUBZCCBDnZ_mYou3fBkSLQ3bw?e=KAfRfX]這個零件[/url] 總計有三個尺寸設定, 其中一個尺寸為 50 mm.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>執行 Solvespace 之前, 要先下載套件之後, 然後在 Windows 操作系統中執行安裝.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Solvespace 與 Solidworks 相同, 只能在 Windows 操作系統中執行.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據 Solvespace 有關內容, 選出下列正確的敘述..</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://github.com/solvespace/solvespace]這裡[/url]可以找到 Solvespace 的原始碼.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://github.com/solvespace/solvespace]這裡[/url]可以清楚看到, Solvespace 主要是採 C++ 程式語言編寫.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://github.com/solvespace/solvespace/issues/1222]這裡[/url]可以找到與 Solvespace 套件開發有關的資訊.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://solvespace.com/forum.pl]這裡[/url]是與 Solvespace 套件有關的討論區.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://solvespace.com/download.pl]這裡[/url]可以發現 Solvespace 2.0 穩定版本是在 2013 年釋出.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://github.com/KmolYuan/solvespace]這裡[/url]以及[url=https://github.com/KmolYuan/Pyslvs-UI]這裡[/url], 可以確定 [url=https://pypi.org/project/python-solvespace/]python-solvespace[/url] 作者其實畢業於虎科大機械設計研究所.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Solvespace 是虎科大機械設計系所開發的</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			</subject>
+		</module>
+	</body>
+</tcexamquestions>

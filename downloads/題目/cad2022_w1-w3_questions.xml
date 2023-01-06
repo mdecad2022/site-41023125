@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="14.8.5
+">
+	<header lang="en" date="2022-11-21 14:02:04">
+	</header>
+	<body>
+		<module>
+			<name>cad2022</name>
+			<enabled>true</enabled>
+			<subject>
+				<name>w1-w3</name>
+				<description>電腦輔助設計實習第一週到第三週的課程相關考試題目.</description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據[url=https://teams.microsoft.com/_#/mp4/viewer/teamsSdk/https:~2F~2Fnfuedu.sharepoint.com~2Fsites~2Fcad2022~2FShared%20Documents~2Fw3~2FRecordings~2F2%E3%80%8Cw3%E3%80%8D%E5%BB%BA%E7%AB%8B%20Replit%20%E5%B8%B3%E8%99%9F,%20%E4%B8%A6%E5%B0%87%E8%AA%B2%E7%A8%8B%E5%80%89%E5%84%B2%20import%20%E8%87%B3%20Repl%20%E5%B0%88%E6%A1%88.mp4?threadId=19:5feebfd062ff4a1e8d4a09aecaab08db@thread.tacv2&amp;subEntityId=%257B%2522web%2522%253A%2522https%253A%252F%252Fnfuedu.sharepoint.com%252Fsites%252Fcad2022%2522%252C%2522list%2522%253A%2522https%253A%252F%252Fnfuedu.sharepoint.com%252Fsites%252Fcad2022%252FShared%2520Documents%2522%252C%2522folder%2522%253A%2522%252Fsites%252Fcad2022%252FShared%2520Documents%252Fw3%252FRecordings%2522%257D&amp;baseUrl=https:~2F~2Fnfuedu.sharepoint.com~2Fsites~2Fcad2022&amp;fileId=6e9dfd80-7ed4-47a3-821f-9be3d83d4b09&amp;ctx=openFilePreview&amp;viewerAction=view]教學影片[/url]中的內容, 選出下列正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 Replit 後, 假入所建立的 repl 名稱與登入帳號相同, 啟動後的動態網站網址, 將會是"https://帳號.repl.co"</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Replit 的免費帳號允許使用者建立不限個數的 Repls.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 Replit 中, 若透過 import 從 Github 導入倉儲後, 可以在動態網頁改版後, 將整個倉儲的內容再傳回 Github.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>將 Github 倉儲 import 入 Replit 後, 內建啟動執行的設定檔案存為隱藏的 .replit file.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>這個影片說明若使用舊版的倉儲 template, 可能會造成安全疑慮的關鍵是 config/config 帶有使用者登入密碼的編碼資料.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>當倉儲從 Github import 進 Replit 後, 系統所增加的 venv, 就是在 Replit 中執行 Python 的 Virtual Environment.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>建立 Replit 帳號的目的是希望利用線上的 Python 環境執行個人倉儲的動態網站.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>建立 Replit 帳號時, 一定要使用"學號@nfu.edu.tw"電子郵箱登記.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請根據[url=https://teams.microsoft.com/_#/mp4/viewer/teamsSdk/https:~2F~2Fnfuedu.sharepoint.com~2Fsites~2Fcad2022~2FShared%20Documents~2Fw3~2FRecordings~2F3%E3%80%8Cw3%E3%80%8D%E5%A6%82%E4%BD%95%E5%9C%A8%20Replit%20%E5%95%9F%E7%94%A8%E5%8B%95%E6%85%8B%E7%B6%B2%E7%AB%99%E5%BE%8C%E8%BD%89%E9%9D%9C%E6%85%8B%E4%B8%A6%E5%90%8C%E6%AD%A5%E8%87%B3%E8%AA%B2%E7%A8%8B%E5%80%89%E5%84%B2%20(%E5%BB%BA%E8%80%83%E8%A9%A6%E5%B8%B3%E8%99%9F).mp4?threadId=19:5feebfd062ff4a1e8d4a09aecaab08db@thread.tacv2&amp;subEntityId=%257B%2522web%2522%253A%2522https%253A%252F%252Fnfuedu.sharepoint.com%252Fsites%252Fcad2022%2522%252C%2522list%2522%253A%2522https%253A%252F%252Fnfuedu.sharepoint.com%252Fsites%252Fcad2022%252FShared%2520Documents%2522%252C%2522folder%2522%253A%2522%252Fsites%252Fcad2022%252FShared%2520Documents%252Fw3%252FRecordings%2522%257D&amp;baseUrl=https:~2F~2Fnfuedu.sharepoint.com~2Fsites~2Fcad2022&amp;fileId=a3ea5830-b602-4a15-ae6c-64040e057664&amp;ctx=openFilePreview&amp;viewerAction=view]教學影片[/url]內容, 選出下列正確的敘述,</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>登入 Replit 後, 從 Github import 倉儲建立 Repl 之後, 可以透過 Version Control 頁面功能, 設法與原導入倉儲保持內容同步.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>由於免費的 Replit 帳號, 只能與 Github public 倉儲同步, 因此若啟用動態網頁後, 管理者密碼即使經過編碼, 也不應該將該密碼資料同步到公開的 Github 倉儲.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從 [url=https://raw.githubusercontent.com/mdecycu/demo/main/main.py]main.py[/url] 啟動檔案的內容, 可以發現是採 WSGI 的模式執行.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>將 Github 倉儲 import 至 Replit 後, 之所以要在 Shell 執行 git submodule update --init --recursive 的目的是希望從 Github 取下子模組的內容.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>將 Github 倉儲 import 至 Replit 後, 之所以要在 Shell 執行 pip install flask flask_cors bs4 lxml pelican markdown gevent 其目的是安裝執行動態網站所需的 Python 模組.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在先前的學員課程倉儲中, 管理者所設定的密碼, 經過編碼後將存入 config/config 檔案中.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>在 mdecad2022 organization 中所建立的個人倉儲, 其動態網站管理者密碼, 內建為 Admin</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>這個影片並沒有包含與 TCExam 建立帳號的相關內容.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請選出有關電腦輔助設計與實習課程內容正確的敘述,</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://mde.tw/pjcopsim]這裡[/url], 可以發現這本手冊資料檔案, 包含在下載的 CoppeliaSim 套件中.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>假如手機安裝了 Onshape App, 點擊[url=https://cad.onshape.com/documents/0c152a911938d7352961b194/w/be224609ad39a35fc1439f95/e/a88aca1714001e9f86f16e49]這裡[/url], 也可以在瀏覽器中看到乒乓球桌的零組件檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>假如手機安裝了 Onshape App, 點擊[url=https://cad.onshape.com/documents/0c152a911938d7352961b194/w/be224609ad39a35fc1439f95/e/a88aca1714001e9f86f16e49]這裡[/url], 也可以在瀏覽器中看到撞球檯的零組件檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>點擊[url=https://cad.onshape.com/documents/0c152a911938d7352961b194/w/be224609ad39a35fc1439f95/e/a88aca1714001e9f86f16e49]這裡[/url], 可以在瀏覽器中看到手足球檯的零組件檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>點擊[url=https://cad.onshape.com/documents/0c152a911938d7352961b194/w/be224609ad39a35fc1439f95/e/a88aca1714001e9f86f16e49]這裡[/url], 可以在瀏覽器中看到乒乓球桌的零組件檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>點擊[url=https://cad.onshape.com/documents/0c152a911938d7352961b194/w/be224609ad39a35fc1439f95/e/a88aca1714001e9f86f16e49]這裡[/url], 可以在瀏覽器中看到撞球檯的零組件檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>假如手機安裝了 Onshape App, 點擊[url=https://cad.onshape.com/documents/0c152a911938d7352961b194/w/be224609ad39a35fc1439f95/e/a88aca1714001e9f86f16e49]這裡[/url], 也可以在瀏覽器中看到手足球檯的零組件檔案.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://mde.tw/pjcopsim]這裡[/url] 的說明中, 註記著 CoppeliaSim 套件的 4.4.0 尚未發佈. 但[url=https://www.coppeliarobotics.com/downloads]實際上[/url], 目前已經發佈.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://github.com/CoppeliaRobotics/CoppeliaSimLib]這裡[/url], 可以發現 CoppeliaSim 4.4.0 rev0 是在 Sep 22, 2022 發佈.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://mde.tw/pjcopsim]這裡[/url], 可以看到 CoppeliaSim 4.2.0 版的使用者手冊.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請選出有關電腦輔助設計與實習課程內容正確的敘述.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程的網站位於: [url]https://mde.tw[/url]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]這個影片[/url]是採用 [url=https://www.debugmode.com/wink/]Wink3[/url] 建立.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程將採用 PTC 公司的 Onshape 套件.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程將會採用 [url=https://solvespace.com]Solvespace[/url] 套件.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]這個影片[/url]中的說明, 可以得知所採用的線上考試系統為 TCExam</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程的代號為 cp2022</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程將採用的 NX 來自法國 Dassault Systems 公司.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程將採用 Dassault System 的 Solidworks 套件.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2022 年電腦輔助設計與實習課程將採用 PTC 公司的 Creo 套件.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>multiple</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>false</auto_next>
+					<description>請選出有關電腦輔助設計與實習課程內容正確的敘述:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 得知 cad2022 在 Github Classroom 中的 organization 名稱為 mdecad2022</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 得知 cad2022 所使用的 CoppeliaSim 可以找到由官方釋出的原始碼.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 得知 cad2022 所使用的 CoppeliaSim 版本為 4.3.0 rev12</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 得知 cad2022 所使用的 NX 版本為 2027 版.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 得知 CoppeliaSim 的核心程式倉儲名稱為 CoppeliaSimLib.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 提到電腦輔助設計與實習課程所建立的機電資模擬場景, 未來可應用於影像辨識或 AI 學習平台上.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 得知 cad2022 各學員的課程網站將會以 https://mdecp2022.github.io 開頭.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>從這個[url=https://mde.tw/downloads/cad/cad_w1_1.mp4]教學影片[/url], 得知學員必須利用學號申請 Github 帳號.</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			</subject>
+		</module>
+	</body>
+</tcexamquestions>
